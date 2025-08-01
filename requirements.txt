@@ -1,4 +1,4 @@
 selenium
-request
+requests
 PyPDF2
 pdfplumber
