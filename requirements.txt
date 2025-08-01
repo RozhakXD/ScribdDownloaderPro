@@ -1,0 +1,4 @@
+selenium
+request
+PyPDF2
+pdfplumber
